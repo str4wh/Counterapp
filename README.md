@@ -1,1 +1,2 @@
-# Counterapp
+This is a counter demo app, which uses a stateful widget where one is able to make changes rather than using a stateless widget.
+ Firstly I Created a new file and named it Counter Page, the rest its commented in the code.
